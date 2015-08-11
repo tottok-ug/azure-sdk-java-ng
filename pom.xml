@@ -47,5 +47,6 @@
     <module>livestreaming</module>
     <module>mediaindexer</module>
     <module>contentprotection</module>
+    <module>cdn</module>
   </modules>
 </project>
