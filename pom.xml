@@ -25,5 +25,6 @@
     <module>apimanagement</module>
     <module>notificationhubs</module>
     <module>sql</module>
+    <module>documentdb</module>
   </modules>
 </project>
