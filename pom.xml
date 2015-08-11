@@ -55,5 +55,6 @@
     <module>store</module>
     <module>marketplace</module>
     <module>applicationinsights</module>
+    <module>billingalertservice</module>
   </modules>
 </project>
