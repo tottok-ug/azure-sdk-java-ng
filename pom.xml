@@ -39,5 +39,6 @@
     <module>expressroute</module>
     <module>trafficmanager</module>
     <module>storage</module>
+    <module>backup</module>
   </modules>
 </project>
