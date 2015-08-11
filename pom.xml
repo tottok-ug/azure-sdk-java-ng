@@ -16,5 +16,6 @@
   <modules>
     <module>core</module>
     <module>virtualmachine</module>
+    <module>cloudservice</module>
   </modules>
 </project>
