@@ -21,5 +21,6 @@
     <module>scheduler</module>
     <module>remoteapp</module>
     <module>websites</module>
+    <module>mobileservices</module>
   </modules>
 </project>
