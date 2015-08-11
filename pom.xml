@@ -41,5 +41,6 @@
     <module>storage</module>
     <module>backup</module>
     <module>toprivate</module>
+    <module>toazurevm</module>
   </modules>
 </project>
