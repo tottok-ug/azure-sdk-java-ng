@@ -53,5 +53,6 @@
     <module>activedirectory</module>
     <module>multifactorauthentication</module>
     <module>store</module>
+    <module>marketplace</module>
   </modules>
 </project>
