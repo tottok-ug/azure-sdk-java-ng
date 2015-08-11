@@ -45,5 +45,6 @@
     <module>encoder</module>
     <module>ondemandstreaming</module>
     <module>livestreaming</module>
+    <module>mediaindexer</module>
   </modules>
 </project>
