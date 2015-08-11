@@ -24,5 +24,6 @@
     <module>mobileservices</module>
     <module>apimanagement</module>
     <module>notificationhubs</module>
+    <module>sql</module>
   </modules>
 </project>
