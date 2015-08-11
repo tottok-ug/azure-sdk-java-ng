@@ -40,5 +40,6 @@
     <module>trafficmanager</module>
     <module>storage</module>
     <module>backup</module>
+    <module>toprivate</module>
   </modules>
 </project>
