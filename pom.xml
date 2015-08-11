@@ -29,5 +29,6 @@
     <module>managedcacheservcie</module>
     <module>rediscache</module>
     <module>storsimple</module>
+    <module>search</module>
   </modules>
 </project>
