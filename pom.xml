@@ -43,5 +43,6 @@
     <module>toprivate</module>
     <module>toazurevm</module>
     <module>encoder</module>
+    <module>ondemandstreaming</module>
   </modules>
 </project>
