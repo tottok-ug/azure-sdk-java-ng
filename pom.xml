@@ -22,5 +22,6 @@
     <module>remoteapp</module>
     <module>websites</module>
     <module>mobileservices</module>
+    <module>apimanagement</module>
   </modules>
 </project>
