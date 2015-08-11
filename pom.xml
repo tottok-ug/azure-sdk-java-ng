@@ -36,5 +36,6 @@
     <module>datafactory</module>
     <module>eventhubs</module>
     <module>virtualnetwork</module>
+    <module>expressroute</module>
   </modules>
 </project>
