@@ -38,5 +38,6 @@
     <module>virtualnetwork</module>
     <module>expressroute</module>
     <module>trafficmanager</module>
+    <module>storage</module>
   </modules>
 </project>
