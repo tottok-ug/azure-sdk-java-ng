@@ -49,5 +49,6 @@
     <module>contentprotection</module>
     <module>cdn</module>
     <module>biztalkservices</module>
+    <module>servicebus</module>
   </modules>
 </project>
