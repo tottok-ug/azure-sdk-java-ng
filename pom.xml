@@ -23,5 +23,6 @@
     <module>websites</module>
     <module>mobileservices</module>
     <module>apimanagement</module>
+    <module>notificationhubs</module>
   </modules>
 </project>
