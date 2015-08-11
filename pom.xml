@@ -32,5 +32,6 @@
     <module>search</module>
     <module>hdinsight</module>
     <module>machinelearning</module>
+    <module>streamanalytics</module>
   </modules>
 </project>
