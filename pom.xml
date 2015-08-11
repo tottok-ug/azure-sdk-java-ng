@@ -52,5 +52,6 @@
     <module>servicebus</module>
     <module>activedirectory</module>
     <module>multifactorauthentication</module>
+    <module>store</module>
   </modules>
 </project>
