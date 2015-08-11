@@ -31,5 +31,6 @@
     <module>storsimple</module>
     <module>search</module>
     <module>hdinsight</module>
+    <module>machinelearning</module>
   </modules>
 </project>
