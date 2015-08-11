@@ -44,5 +44,6 @@
     <module>toazurevm</module>
     <module>encoder</module>
     <module>ondemandstreaming</module>
+    <module>livestreaming</module>
   </modules>
 </project>
