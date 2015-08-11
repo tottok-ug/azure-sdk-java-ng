@@ -27,5 +27,6 @@
     <module>sql</module>
     <module>documentdb</module>
     <module>managedcacheservcie</module>
+    <module>rediscache</module>
   </modules>
 </project>
