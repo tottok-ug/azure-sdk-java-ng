@@ -28,5 +28,6 @@
     <module>documentdb</module>
     <module>managedcacheservcie</module>
     <module>rediscache</module>
+    <module>storsimple</module>
   </modules>
 </project>
