@@ -51,5 +51,6 @@
     <module>biztalkservices</module>
     <module>servicebus</module>
     <module>activedirectory</module>
+    <module>multifactorauthentication</module>
   </modules>
 </project>
