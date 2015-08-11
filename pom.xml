@@ -26,5 +26,6 @@
     <module>notificationhubs</module>
     <module>sql</module>
     <module>documentdb</module>
+    <module>managedcacheservcie</module>
   </modules>
 </project>
