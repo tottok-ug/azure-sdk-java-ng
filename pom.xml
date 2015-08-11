@@ -20,5 +20,6 @@
     <module>batch</module>
     <module>scheduler</module>
     <module>remoteapp</module>
+    <module>websites</module>
   </modules>
 </project>
