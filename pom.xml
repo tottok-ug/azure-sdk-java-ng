@@ -30,5 +30,6 @@
     <module>rediscache</module>
     <module>storsimple</module>
     <module>search</module>
+    <module>hdinsight</module>
   </modules>
 </project>
