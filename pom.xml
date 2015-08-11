@@ -48,5 +48,6 @@
     <module>mediaindexer</module>
     <module>contentprotection</module>
     <module>cdn</module>
+    <module>biztalkservices</module>
   </modules>
 </project>
