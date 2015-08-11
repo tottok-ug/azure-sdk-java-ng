@@ -35,5 +35,6 @@
     <module>streamanalytics</module>
     <module>datafactory</module>
     <module>eventhubs</module>
+    <module>virtualnetwork</module>
   </modules>
 </project>
