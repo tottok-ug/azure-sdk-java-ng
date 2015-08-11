@@ -58,5 +58,6 @@
     <module>billingalertservice</module>
     <module>automation</module>
     <module>operationalinsights</module>
+    <module>azurepack</module>
   </modules>
 </project>
