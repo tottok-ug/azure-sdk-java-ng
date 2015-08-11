@@ -50,5 +50,6 @@
     <module>cdn</module>
     <module>biztalkservices</module>
     <module>servicebus</module>
+    <module>activedirectory</module>
   </modules>
 </project>
