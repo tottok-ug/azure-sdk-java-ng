@@ -33,5 +33,6 @@
     <module>hdinsight</module>
     <module>machinelearning</module>
     <module>streamanalytics</module>
+    <module>datafactory</module>
   </modules>
 </project>
