@@ -42,5 +42,6 @@
     <module>backup</module>
     <module>toprivate</module>
     <module>toazurevm</module>
+    <module>encoder</module>
   </modules>
 </project>
