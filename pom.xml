@@ -19,5 +19,6 @@
     <module>cloudservice</module>
     <module>batch</module>
     <module>scheduler</module>
+    <module>remoteapp</module>
   </modules>
 </project>
