@@ -37,5 +37,6 @@
     <module>eventhubs</module>
     <module>virtualnetwork</module>
     <module>expressroute</module>
+    <module>trafficmanager</module>
   </modules>
 </project>
