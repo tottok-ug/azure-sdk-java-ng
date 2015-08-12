@@ -1,4 +1,4 @@
-package com.tottokug.azure.;
+package com.tottokug.azure;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
