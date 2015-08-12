@@ -1,4 +1,4 @@
-package com.tottokug.azure;
+package com.tottokug.develop;
 
 /**
  * Hello world!
