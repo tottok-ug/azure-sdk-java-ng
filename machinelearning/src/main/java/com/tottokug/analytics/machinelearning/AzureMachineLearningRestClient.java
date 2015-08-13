@@ -8,12 +8,13 @@ import com.tottokug.azure.AzureRestResponse;
 
 public class AzureMachineLearningRestClient implements AzureMachineLearningClient, AzureRestClient {
 
-	@Overwrite
+	@Override
 	public AzureResponse execute(AzureRequest request) {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
+	@Override
 	public AzureRestResponse request(AzureRestRequest request) {
 		// TODO Auto-generated method stub
 		return null;
